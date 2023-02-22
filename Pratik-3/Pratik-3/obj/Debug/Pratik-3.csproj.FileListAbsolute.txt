@@ -1,0 +1,11 @@
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Pratik-3\Pratik-3\bin\Debug\Pratik-3.exe.config
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Pratik-3\Pratik-3\bin\Debug\Pratik-3.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Pratik-3\Pratik-3\bin\Debug\Pratik-3.pdb
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Pratik-3\Pratik-3\obj\Debug\Pratik-3.csproj.AssemblyReference.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Pratik-3\Pratik-3\obj\Debug\Pratik-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Pratik-3\Pratik-3\obj\Debug\Pratik_3.Form1.resources
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Pratik-3\Pratik-3\obj\Debug\Pratik_3.Properties.Resources.resources
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Pratik-3\Pratik-3\obj\Debug\Pratik-3.csproj.GenerateResource.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Pratik-3\Pratik-3\obj\Debug\Pratik-3.csproj.CoreCompileInputs.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Pratik-3\Pratik-3\obj\Debug\Pratik-3.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Pratik-3\Pratik-3\obj\Debug\Pratik-3.pdb
